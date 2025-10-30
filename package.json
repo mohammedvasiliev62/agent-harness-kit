@@ -1,6 +1,6 @@
 {
   "name": "agent-harness-kit",
-  "version": "0.1.17",
+  "version": "0.1.18",
   "description": "A provider-agnostic scaffolding kit for running structured multi-agent workflows in your codebase.",
   "main": "src/index.ts",
   "scripts": {
